@@ -59,7 +59,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40" alt="Trello"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jira.svg" width="40" height="40" title="Jira"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jira/jira-original.svg" width="40" height="40" title="Jira"/>
 
   <!-- 🧑‍💻 Editors -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm"/>
@@ -78,79 +78,45 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/zoom.svg" width="40" height="40" alt="Zoom"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/render.svg" width="40" height="40" alt="Render"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ngrok.svg" width="40" height="40" alt="Ngrok"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/sqlite.svg" width="40" height="40" alt="SQLite"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azuredevops/azuredevops-original.svg" width="40" height="40" alt="azuredevops"/>
 </p>
 
 ---
 
 <!-- LANGUAGES -->
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
+  
 </p>
 
 <!-- FRAMEWORKS / LIBRARIES -->
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React (SPA)"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40" title="jQuery"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" title="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" title="Django"/>
+  
 </p>
 
 <!-- DATABASES -->
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" title="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" height="40" title="MariaDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>
+ 
 </p>
 
 <!-- DEVOPS / CLOUD -->
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker / Containers"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" title="Terraform"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" title="Jenkins"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" title="Azure Cloud"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/githubactions.svg" width="40" height="40" title="GitHub Actions"/>
+ 
 </p>
 
 <!-- MONITORING / INFRA -->
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" title="Grafana"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40" title="Prometheus"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pgadmin.svg" width="40" height="40" title="pgAdmin"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ngrok.svg" width="40" height="40" title="ngrok"/>
+  
 </p>
 
 <!-- IDEs / TOOLS -->
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" title="PyCharm"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VSCode"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" title="Visual Studio"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" title="Jupyter Notebook"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" title="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" title="GitLab"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jira.svg" width="40" height="40" title="Jira"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/trello.svg" width="40" height="40" title="Trello"/>
+  
 </p>
 
 <!-- MISC / CONCEPTS -->
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg" width="40" height="40" title="GPT / OpenAI"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/zoom.svg" width="40" height="40" title="Zoom"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftoffice.svg" width="40" height="40" title="Microsoft Office"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/render.svg" width="40" height="40" title="Render"/>
+
 </p>
-
-<!-- ❓ Unavailable or Workaround Needed -->
-<!-- These have no icon yet: yaml, ajax, spa, unit/automation testing, dev/backend/frontend roles, blackbox exporter, alertmanager, OOP, kivy, REST, MVC, generic DB or CI/CD icons -->
-
-<!-- TIP: You can use emojis, badges, or custom SVGs for the above if you want to highlight them! -->
-
 
 ---
 
