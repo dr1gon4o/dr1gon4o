@@ -8,17 +8,16 @@
 
 ---
 
-🌟 **About Me**  
-- 🔭 I’m currently working on **[Project Name or Tech]**  
-- 🌱 I’m currently learning **[Tech you're learning]**  
-- 👯 I’m looking to collaborate on **[Your interest]**  
-- 💬 Ask me about **[Technologies you know well]**  
-- 📫 How to reach me: **[your.email@example.com]**  
-- ⚡ Fun fact: *[Funny or interesting fact]*
+<p align="center">
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=dr1gon4o&show_icons=true&theme=transparent" align="left" width="51%" />
+  </a>
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dr1gon4o&layout=compact&langs_count=6"  width="39%" />
+  </a>
+</p>
 
 ---
-
-### 🛠️ Languages and Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -31,14 +30,13 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=dr1gon4o&show_icons=true&theme=transparent" />
-</p>
-<p>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dr1gon4o&layout=compact&langs_count=6" />
-</p>
+🌟 **About Me**  
+- 🔭 I’m currently working on **[Project Name or Tech]**  
+- 🌱 I’m currently learning **[Tech you're learning]**  
+- 👯 I’m looking to collaborate on **[Your interest]**  
+- 💬 Ask me about **[Technologies you know well]**  
+- 📫 How to reach me: **[your.email@example.com]**  
+- ⚡ Fun fact: *[Funny or interesting fact]*
 
 ---
 
@@ -46,7 +44,7 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/bassel-tahboub-83100312a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
-  <a href="mailto:basselt@abv.bg"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />basselt@abv.bg</a>
+  <a href="mailto:basselt@abv.bg"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
 </p>
 
 ---
