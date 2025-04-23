@@ -1,11 +1,6 @@
-## Hi there 👋
-
-<!--
-**dr1gon4o/dr1gon4o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 <!-- GitHub Profile README -->
-<h1 align="center">Hi 👋, I'm Bassel</h1>
-<h3 align="center">A passionate [Your Job Title] from [Your Location]</h3>
+<h1 align="center">Hi 👋, I'm Basko</h1>
+<h3 align="center">A passionate Full Stack Developer from Bulgaria</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+developer+who+loves+clean+code.;Let's+build+something+great+together!" alt="Typing SVG" />
@@ -39,19 +34,10 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dr1gon4o&show_icons=true&theme=transparent" />
+  <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=dr1gon4o&show_icons=true&theme=transparent" />
 </p>
 <p>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dr1gon4o&layout=compact&langs_count=8&card_width=320" />
-</p>
-
----
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dr1gon4o&layout=compact&langs_count=6" />
 </p>
 
 ---
@@ -60,7 +46,7 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/bassel-tahboub-83100312a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
-  <a href="mailto:basselt@abv.bg"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
+  <a href="mailto:basselt@abv.bg"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />basselt@abv.bg</a>
 </p>
 
 ---
@@ -70,11 +56,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" 
-    alt="Profile views" 
-    style="pointer-events: none; cursor: default;" 
-  />
-</p>
