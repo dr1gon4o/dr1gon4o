@@ -77,6 +77,7 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftoffice.svg" width="40" height="40" alt="Microsoft Office"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/zoom.svg" width="40" height="40" alt="Zoom"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/render.svg" width="40" height="40" alt="Render"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cloudflare.svg" width="40" height="40" alt="Cloudflare"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ngrok.svg" width="40" height="40" alt="Ngrok"/>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azuredevops/azuredevops-original.svg" width="40" height="40" alt="azuredevops"/>
 </p>
