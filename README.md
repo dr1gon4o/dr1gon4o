@@ -9,8 +9,12 @@
 ---
 
 <p align="center">
+  <picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
   <a>
     <img src="https://github-readme-stats.vercel.app/api?username=dr1gon4o&show_icons=true" align="left" width="51%" />
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
   </a>
   <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dr1gon4o&layout=compact&langs_count=6"  width="39%" />
