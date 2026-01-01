@@ -8,14 +8,26 @@
 
 ---
 
-<p align="center">
+<!-- Old readme stats are giving a 502 gateway error and are not working properly -->
+<!--<p align="center">
   <a> 
-    <img src="https://github-readme-stats.vercel.app/api?username=dr1gon4o&show_icons=true&theme=transparent" align="left" width="51%" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=dr1gon4o&show_icons=true&count_private=true" align="left" width="51%" /> 
   </a>
   <a> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dr1gon4o&layout=compact&langs_count=6" width="39%" /> 
   </a> 
+</p>-->
+
+<!-- New readme stats working properly -->
+<p align="center">
+  <a> 
+    <img src="https://github-readme-stats.zcy.dev/api?username=dr1gon4o&show_icons=true&count_private=true" align="left" width="51%" /> 
+  </a>
+  <a> 
+    <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=dr1gon4o&layout=compact&langs_count=6" width="39%" /> 
+  </a> 
 </p>
+
 
 ---
 
