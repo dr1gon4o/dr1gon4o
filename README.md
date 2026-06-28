@@ -42,7 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" height="40" alt="MariaDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" width="40" height="40" alt="YAML"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@14.12.3/icons/mysql.svg" width="40" height="40" alt="mysql"/>
@@ -81,13 +80,10 @@
   
   <!-- 🖥️ OS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" alt="Windows"/>
-
+  
   <!-- 🎯 Simple Icons -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg" width="40" height="40" alt="GPT" title="GPT/OpenAI"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/githubactions.svg" width="40" height="40" alt="GitHub Actions"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftoffice.svg" width="40" height="40" alt="Microsoft Office"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/zoom.svg" width="40" height="40" alt="Zoom"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/render.svg" width="40" height="40" alt="Render"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cloudflare.svg" width="40" height="40" alt="Cloudflare"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ngrok.svg" width="40" height="40" alt="Ngrok"/>
